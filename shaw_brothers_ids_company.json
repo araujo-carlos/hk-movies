@@ -1,0 +1,37 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 142228,
+      "logo_path": null,
+      "name": "Shaw Brothers",
+      "origin_country": "SG"
+    },
+    {
+      "id": 5798,
+      "logo_path": "/tmuI9BGXgpWLmokhlxpnG3IGNQB.png",
+      "name": "Shaw Brothers",
+      "origin_country": "HK"
+    },
+    {
+      "id": 183240,
+      "logo_path": null,
+      "name": "Shaw Brothers Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 72859,
+      "logo_path": null,
+      "name": "Shaw Brothers (Taiwan) Ltd.",
+      "origin_country": "TW"
+    },
+    {
+      "id": 229848,
+      "logo_path": null,
+      "name": "Shaw Brothers Subtitles Group",
+      "origin_country": ""
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 5
+}

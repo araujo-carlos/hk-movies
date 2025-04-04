@@ -1,0 +1,55 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 969,
+      "logo_path": null,
+      "name": "Golden Harvest Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 138661,
+      "logo_path": null,
+      "name": "Golden Harvest Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 102245,
+      "logo_path": null,
+      "name": "Golden Harvest Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 9046,
+      "logo_path": null,
+      "name": "Golden Harvest Company",
+      "origin_country": "HK"
+    },
+    {
+      "id": 39985,
+      "logo_path": "/4K0Fjrh7l2gVNwlGuRH4rTEFxTC.png",
+      "name": "Golden Harvest Productions",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    },
+    {
+      "id": 6379,
+      "logo_path": null,
+      "name": "Golden Harvest Company Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 128333,
+      "logo_path": "/cIFX3XS0k5UzJwOi5rvCDlpgzib.png",
+      "name": "CJ CGV",
+      "origin_country": "KR"
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 8
+}
